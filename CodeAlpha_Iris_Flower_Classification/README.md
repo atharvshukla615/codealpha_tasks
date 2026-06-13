@@ -39,6 +39,5 @@ The model was trained and evaluated using an 80:20 train-test split and achieved
 * Iris.csv
 * CodeAlpha_Iris_Flower_Classification.ipynb
 * requirements.txt
-
-Atharv Shukla
+  
 
